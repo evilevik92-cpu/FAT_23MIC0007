@@ -2,7 +2,7 @@
 
 public class com { 
 	 
-	public class Main {
+	  
 	  public static void main(String[] args) {
 	      System.out.println("Java program executed using Jenkins CI");
 	      System.out.println("Student name : jake");
@@ -18,4 +18,4 @@ public class com {
 	  }
 	}
 
-}
+
